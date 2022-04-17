@@ -1,0 +1,1 @@
+g++ -m64 -Iinclude -mwindows -Llib -O3   src/*.cpp src/*.c -lglfw3dll -o bin/game
